@@ -5,10 +5,10 @@ Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Pushpita11&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 👩‍💻 About Me
 
@@ -31,7 +31,7 @@ Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
 Software Engineer | Full Stack Developer | AI Engineer
 
 📫 Reach me at:
-**your.email@gmail.com**
+**pushpitakundu11t@gmail.com**
 
 ---
 
@@ -126,7 +126,7 @@ Software Engineer | Full Stack Developer | AI Engineer
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pushpita11&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpita11&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -144,7 +144,7 @@ Software Engineer | Full Stack Developer | AI Engineer
 
 # 📈 Contribution Graph
 
-[![Pushpita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Pushpita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pushpita11&theme=react-dark)](https://github.com/Pushpita11)
 
 ---
 
@@ -152,7 +152,7 @@ Software Engineer | Full Stack Developer | AI Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pushpita11&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
